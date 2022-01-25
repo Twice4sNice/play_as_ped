@@ -11,5 +11,5 @@ server_script 'server.lua'
 client_script 'client.lua'
 
 dependencies {
-	'es_extended'
+	'tprp_base'
 }
